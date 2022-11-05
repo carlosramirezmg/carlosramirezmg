@@ -7,11 +7,26 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/carlosramirezmg/)
 
 ### Glad to see you here!
-I'm a studen of BYU-Pathway Worldwide University and Platzi, I am a passionate learner who's always willing to learn and work across technologies.
+I'm a studen of BYU-Pathway Worldwide University <a href="byupathway.org">
+    <img align="" alt="BYU-Pathway Worldwide" width="18px" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/studies/byu-pathway.png" />
+  </a> and Platzi <a href="https://platzi.com/p/carlosramirezmg/">
+    <img align="" alt="Platzi" width="18px" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/studies/platzi.png" />
+  </a>, I am a passionate learner who's always willing to learn and work across technologies.
 
 ### Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/html/html.svg" alt="HTML"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/css/css.svg" alt="CSS"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/javascript/javascript.svg" alt="JavaScript"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/react/react.svg" alt="react"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/node/node.svg" alt="NodeJS"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/git/git-original.svg" alt="Git"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/ubuntu/ubuntu.png" alt="Ubuntu"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/terminal/terminal.png" alt="Terminal"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/firefoxdev/firefoxdev.png" alt="firefoxdev"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/google/google.png" alt="Google"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/vscode/vscode.png" alt="VScode"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/WebStorm/WebStorm.png" alt="WebStrom"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/jira/jira.png" alt="Jira"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/confluence/confluence.png" alt="Confluence"></code>
+<code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/figma/figma.svg" alt="Figma"></code>
