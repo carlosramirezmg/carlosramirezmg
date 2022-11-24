@@ -10,9 +10,10 @@
 I'm a studen of BYU-Pathway Worldwide University <a href="byupathway.org">
     <img align="" alt="BYU-Pathway Worldwide" width="18px" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/studies/byu-pathway.png" />
   </a> and Platzi <a href="https://platzi.com/p/carlosramirezmg/">
-    <img align="" alt="Platzi" width="18px" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/studies/platzi.png" />
+    <img align="" alt="Platzi" width="18px" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/studies/platzi.png" /> also I started to new happy journey in Oracle One.
   </a>, I am a passionate learner who's always willing to learn and work across technologies.
 
+<!--
 ### Languages and Tools:
 
 <code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/html/html.svg" alt="HTML"></code>
@@ -30,3 +31,4 @@ I'm a studen of BYU-Pathway Worldwide University <a href="byupathway.org">
 <code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/jira/jira.png" alt="Jira"></code>
 <code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/confluence/confluence.png" alt="Confluence"></code>
 <code><img height="27" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/figma/figma.svg" alt="Figma"></code>
+-->
