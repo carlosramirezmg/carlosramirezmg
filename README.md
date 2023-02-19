@@ -7,10 +7,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/carlosramirezmg/)
 
 ### Glad to see you here!
-I'm a studen of BYU-Pathway Worldwide University <a href="byupathway.org">
+I'm a studen of BYU-Pathway Worldwide University <a href="byupathway.org" target="_blank">
     <img align="" alt="BYU-Pathway Worldwide" width="18px" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/studies/byu-pathway.png" />
-  </a> and Platzi <a href="https://platzi.com/p/carlosramirezmg/">
-    <img align="" alt="Platzi" width="18px" src="https://github.com/carlosramirezmg/carlosramirezmg/blob/main/icons/studies/platzi.png" /> 
   </a>, also I started to new happy journey in Oracle One. I am a passionate learner who's always willing to learn and work across technologies.
 
 <!--
