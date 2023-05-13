@@ -7,7 +7,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/carlosramirezmg/)
 
 ### Glad to see you here!
-I'm a studen of BYU-Pathway Worldwide University and now I started to new happy journey in Oracle One. I am a passionate learner who's always willing to learn and work across technologies.
+I'm a studen of BYU - Idaho University. I am a passionate learner who's always willing to learn and work across technologies.
 
 <!--
 ### Languages and Tools:
