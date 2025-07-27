@@ -6,8 +6,15 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/carlos.ramirez.mg/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/carlosramirezmg/)
 
-### Glad to see you here!
-I'm a studen of BYU - Idaho University. I am a passionate learner who's always willing to learn and work across technologies.
+
+## 🚀 About Me
+I'm a Bachelor's student in Information Technology at BYU–Idaho and Ensign College, passionate about continuous learning and building real-world solutions.
+
+Currently working as a Technical Support Agent at GoTo Solutions, where I help users solve issues and stay connected.
+
+I'm actively developing my skills in networking, preparing for certifications like HCIA (Huawei) and Cisco CCNA.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosramirezmg&theme=dark)](https://git.io/streak-stats)
 
 <!--
 ### Languages and Tools:
