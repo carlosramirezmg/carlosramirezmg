@@ -13,7 +13,8 @@ I'm a Bachelor's student in Information Technology at Ensign College, passionate
 Currently working as a Technical Support Agent at GoTo Solutions, where I help users solve issues and stay connected.
 
 I'm actively developing my skills in networking, preparing for certifications like HCIA (Huawei) and Cisco CCNA.
-<img width="300" height="300" alt="ccna-switching-routing-and-wireless-essentials 1" src="https://github.com/user-attachments/assets/74ba3a70-3195-4569-89b7-58d82ef44f11" />
+
+<img width="250" height="250" alt="ccna-switching-routing-and-wireless-essentials 1" src="https://github.com/user-attachments/assets/74ba3a70-3195-4569-89b7-58d82ef44f11" />
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosramirezmg&theme=dark)](https://git.io/streak-stats)
