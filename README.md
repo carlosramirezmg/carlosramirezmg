@@ -13,6 +13,8 @@ I'm a Bachelor's student in Information Technology at Ensign College, passionate
 Currently working as a Technical Support Agent at GoTo Solutions, where I help users solve issues and stay connected.
 
 I'm actively developing my skills in networking, preparing for certifications like HCIA (Huawei) and Cisco CCNA.
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f8f4569b-2a50-4051-b40c-424d7ebb6d22" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosramirezmg&theme=dark)](https://git.io/streak-stats)
 
