@@ -8,7 +8,7 @@
 
 
 ## 🚀 About Me
-I'm a Bachelor's student in Information Technology at BYU–Idaho and Ensign College, passionate about continuous learning and building real-world solutions.
+I'm a Bachelor's student in Information Technology at Ensign College, passionate about continuous learning and building real-world solutions.
 
 Currently working as a Technical Support Agent at GoTo Solutions, where I help users solve issues and stay connected.
 
