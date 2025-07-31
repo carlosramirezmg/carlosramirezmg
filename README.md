@@ -17,8 +17,6 @@ I'm actively developing my skills in networking, preparing for certifications li
 ## Badge
 <img width="125" height="125" alt="ccna-switching-routing-and-wireless-essentials 1" src="https://github.com/user-attachments/assets/74ba3a70-3195-4569-89b7-58d82ef44f11" />
 
-##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosramirezmg&theme=dark)](https://git.io/streak-stats)
 
 <!--
 ### Languages and Tools:
