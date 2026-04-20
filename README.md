@@ -8,13 +8,13 @@
 
 
 <h2>🚀 About Me</h2>
-<ol>
+<ul>
   <li>🌐 Network-oriented IT professional | Cisco CCNA | DevNet</li>
   <li>🐧 Ubuntu 24.04 as my main OS — Linux is home</li>
   <li>🐍 Python enthusiast — automating network tasks, building tools</li>
   <li>📚 Always learning: NetAcad, Udemy, and hands-on homelab</li>
   <li>🇬🇹 Based in Guatemala</li>
-</ol>
+</ul>
 
 
 ## Badge
