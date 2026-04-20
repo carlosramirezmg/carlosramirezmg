@@ -8,14 +8,21 @@
 
 
 ## 🚀 About Me
-I'm a Bachelor's student in Information Technology at Ensign College, passionate about continuous learning and building real-world solutions.
+🌐 Network-oriented IT professional | Cisco CCNA | DevNet
+🐧 Ubuntu 24.04 as my main OS — Linux is home
+🐍 Python enthusiast — automating network tasks, building tools
+📚 Always learning: NetAcad, Udemy, and hands-on homelab
+🇬🇹 Based in Guatemala
 
-Currently working as a Technical Support Agent at GoTo Solutions, where I help users solve issues and stay connected.
-
-I'm actively developing my skills in networking, preparing for certifications like HCIA (Huawei) and Cisco CCNA.
 
 ## Badge
-<img width="125" height="125" alt="ccna-switching-routing-and-wireless-essentials 1" src="https://github.com/user-attachments/assets/74ba3a70-3195-4569-89b7-58d82ef44f11" />
+<img width="125" height="125" alt="ccna-introduction-to-networks" src="https://github.com/user-attachments/assets/2c7c6adc-22c2-4237-b70b-0befcb69f474" />
+<img width="125" height="125" alt="ccna-switching-routing-and-wireless-essentials 1" src="https://github.com/user-attachments/assets/5b5ee19b-a74d-4c98-b011-4a83fd0aa7a8" />
+<img width="125" height="125" alt="ccna-enterprise-networking-security-and-automation" src="https://github.com/user-attachments/assets/10254ebb-e417-4820-a651-5fc9e01fe4a6" />
+<img width="125" height="125" alt="network-security" src="https://github.com/user-attachments/assets/8844e383-5fb8-4140-8478-e73789586b7b" />
+<img width="125" height="125" alt="devnet-associate" src="https://github.com/user-attachments/assets/6d9e26fb-bc1c-4670-ba3c-939092c79b29" />
+
+
 
 
 <!--
