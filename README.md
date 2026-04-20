@@ -7,12 +7,14 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/carlosramirezmg/)
 
 
-## 🚀 About Me
-🌐 Network-oriented IT professional | Cisco CCNA | DevNet
-🐧 Ubuntu 24.04 as my main OS — Linux is home
-🐍 Python enthusiast — automating network tasks, building tools
-📚 Always learning: NetAcad, Udemy, and hands-on homelab
-🇬🇹 Based in Guatemala
+<h2>🚀 About Me</h2>
+<ol>
+  <li>🌐 Network-oriented IT professional | Cisco CCNA | DevNet</li>
+  <li>🐧 Ubuntu 24.04 as my main OS — Linux is home</li>
+  <li>🐍 Python enthusiast — automating network tasks, building tools</li>
+  <li>📚 Always learning: NetAcad, Udemy, and hands-on homelab</li>
+  <li>🇬🇹 Based in Guatemala</li>
+</ol>
 
 
 ## Badge
