@@ -16,13 +16,13 @@
 
 
 ## Badge
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img width="125" height="125" alt="ccna-introduction-to-networks" src="https://github.com/user-attachments/assets/2c7c6adc-22c2-4237-b70b-0befcb69f474" />
-  <img width="125" height="125" alt="ccna-switching-routing-and-wireless-essentials 1" src="https://github.com/user-attachments/assets/5b5ee19b-a74d-4c98-b011-4a83fd0aa7a8" />
-  <img width="125" height="125" alt="ccna-enterprise-networking-security-and-automation" src="https://github.com/user-attachments/assets/10254ebb-e417-4820-a651-5fc9e01fe4a6" />
-  <img width="125" height="125" alt="network-security" src="https://github.com/user-attachments/assets/8844e383-5fb8-4140-8478-e73789586b7b" />
-  <img width="125" height="125" alt="devnet-associate" src="https://github.com/user-attachments/assets/6d9e26fb-bc1c-4670-ba3c-939092c79b29" />
-</div>
+<table><tr>
+  <td><img width="125" height="125" alt="ccna-introduction-to-networks" src="https://github.com/user-attachments/assets/2c7c6adc-22c2-4237-b70b-0befcb69f474" /></td>
+  <td><img width="125" height="125" alt="ccna-switching-routing-and-wireless-essentials 1" src="https://github.com/user-attachments/assets/5b5ee19b-a74d-4c98-b011-4a83fd0aa7a8" /></td>
+  <td><img width="125" height="125" alt="ccna-enterprise-networking-security-and-automation" src="https://github.com/user-attachments/assets/10254ebb-e417-4820-a651-5fc9e01fe4a6" /></td>
+  <td><img width="125" height="125" alt="network-security" src="https://github.com/user-attachments/assets/8844e383-5fb8-4140-8478-e73789586b7b" /></td>
+  <td><img width="125" height="125" alt="devnet-associate" src="https://github.com/user-attachments/assets/6d9e26fb-bc1c-4670-ba3c-939092c79b29" /></td>
+</tr></table>
 
 
 
